@@ -12,6 +12,8 @@
 
 - [Acesso al projecto](#acesso-al-proyecto)
 
+- [Reflexión del curso](#reflexión-del-curso)
+
 - [Desarrolladores](#desarrollador)
 
 ## Descripción del projecto 
@@ -44,5 +46,10 @@ Visual Studio Code
 
 Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/blob/main/calculadora_IMC.py) 
 
+## Reflexión del curso 
+
+<p align="justify">
+Me agrado completamente el curso Fundamentos de python.
+</p>
 ## Desarrollador
 Fernando Patoni De La Rosa
