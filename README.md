@@ -51,7 +51,6 @@ Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cd
 <p align="justify">
 Me agrado completamente el curso Fundamentos de python.
 </p>
-###
 
 ## Desarrollador
 Fernando Patoni De La Rosa
