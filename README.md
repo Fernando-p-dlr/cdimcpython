@@ -42,7 +42,7 @@ Visual Studio Code
 
 ## Acesso al proyecto
 
-Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/) 
+Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/blob/main/calculadora_IMC.py) 
 
 ## Desarrollador
 Fernando Patoni De La Rosa
