@@ -42,7 +42,7 @@ Visual Studio Code
 
 ## Acesso al projecto
 
-Puedes [ver el código fuente del proyecto](link) 
+Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/) 
 
 ## Desarrollador
 Fernando Patoni De La Rosa
