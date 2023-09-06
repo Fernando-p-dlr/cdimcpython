@@ -27,11 +27,11 @@ Es un sistema que permitirá calcular el Índice de masa corporal, el cual recib
 
 :heavy_check_mark: `Funcionalidade 1:` Pedirá los siguientes datos al usuario: nombre, apellido paterno, apellido materno, edad, altura y peso.
 
-:heavy_check_mark: `Funcionalidade 2:` Validar si algún dato sea no válido.
+:heavy_check_mark: `Funcionalidade 2:` Validar si algún dato sea válido o no y posteriormente mostrar un mensaje de error.
 
 :heavy_check_mark: `Funcionalidade 3:` Calcular su Índice de masa corporal (imc).
 
-:heavy_check_mark: `Funcionalidade 4:` Mostrar todos los datos introducios por el usuario y su imc.
+:heavy_check_mark: `Funcionalidade 4:` Mostrar todos los datos introducidos por el usuario y su imc.
 
 
 ## Herramentas utilizadas
