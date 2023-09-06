@@ -10,7 +10,7 @@
 
 - [Herramientas utilizadas](#herramentas-utilizadas)
 
-- [Acesso al projecto](#acesso-al-projecto)
+- [Acesso al projecto](#acesso-al-proyecto)
 
 - [Desarrolladores](#desarrollador)
 
@@ -40,7 +40,7 @@ Visual Studio Code
 
 ###
 
-## Acesso al projecto
+## Acesso al proyecto
 
 Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/) 
 
